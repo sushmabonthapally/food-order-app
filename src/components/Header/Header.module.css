@@ -1,0 +1,35 @@
+.header{
+    background-color: #8a2b06;
+    display: flex;
+    justify-content: space-around;
+    color:#fff;
+}
+
+.image{
+    width:20px;
+    padding-right:10px;
+    filter: invert(1);
+}
+
+.HeaderButton{
+    height: 40px;
+    margin-top: 1rem;
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    background-color: #4d1601;
+    color: #fff;
+    display: flex;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.cartData{
+    border-radius:10px;
+    border:1px solid red;
+    margin-left:10px;
+    padding-left:10px;
+    padding-right:10px;
+    color:#fff;
+    background-color: red;
+}

@@ -1,0 +1,13 @@
+.mealsItem{
+    border: 1px solid black;
+    width: 700px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.items{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}

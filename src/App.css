@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-image: url(../src/meals.jpg);
+  height: 300px;
+  background-size: cover;
+}
+
+@media screen and (min-width: 300px) and (max-width:1000px){
+ .App {
+   width:700px
+ }
+}
